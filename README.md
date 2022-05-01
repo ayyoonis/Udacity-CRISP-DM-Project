@@ -70,7 +70,7 @@ The following are among the most major findings from the analysis:
 
 Blog on Airbnb-Seattle-udacity-project
 
-I have written a blog on website Github Page about the project and observations. Link is down below https://abdishakury.github.io/
+I have written a blog on website Github Page about the project and observations. Link is down below https://ayyoonis.github.io/ayoonis.github.io/
 
 
 ## Acknowledgements<a name="acknowledgements"></a>
